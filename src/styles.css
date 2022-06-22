@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #2b5e6f;
+  color: #d9c751;
+  padding: 10px;
+  min-height: 100vh;
+}
+.App h1 {
+  font-size: 40px;
+  text-shadow: 7px 7px 10px;
+}
+.App input {
+  width: 200px;
+  line-height: 30px;
+  padding-left: 10px;
+  overflow-x: hidden;
+  border-radius: 10px;
+  outline: none;
+  color: #d9c751;
+  background-color: inherit;
+  border: 2px solid #d9c751;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.btn {
+  padding: 4px 30px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px solid #d9c751;
+  color: #d9c751;
+  background-color: inherit;
+  margin-left: 5px;
+}
+.line {
+  text-decoration: line-through;
+}
+.App span {
+  font-size: 20px;
+}
+.btns {
+  padding: 4px 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px solid #d9c751;
+  color: #d9c751;
+  background-color: inherit;
+  margin-left: 5px;
+}
+.main {
+  border: 2px solid #d9c751;
+  min-height: 70vh;
+  overflow-y: scroll;
+  width: 80%;
+  margin: 10px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
